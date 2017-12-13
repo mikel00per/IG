@@ -21,7 +21,7 @@ LDFLAGS=  -lGLU -lGL -lglut -std=c++11
 #
 CC = g++
 
-# orden que sera ejecutada por 
+# orden que sera ejecutada por defecto
 #
 default : $(TARGETS)
 
