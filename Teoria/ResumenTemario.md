@@ -1,4 +1,4 @@
-# Prosibles preguntas
+# Resumen del Temario
 
 ### Estructuras para solidos por fronteras
 HAy distintas formas de representar un sólido por fronteras que serían:
